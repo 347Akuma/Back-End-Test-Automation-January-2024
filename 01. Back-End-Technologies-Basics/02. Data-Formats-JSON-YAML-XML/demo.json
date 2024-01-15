@@ -1,0 +1,8 @@
+{
+    "name": "Banana",
+    "price": 11.00,
+    "isAvailable": true,
+    "description": "This is an absolutely real banana \n",
+    "tags": ["food", "tropical", "fruit"],
+    "exampleObject" :{"isAnObject": true}
+}

@@ -1,0 +1,6 @@
+  - name: Switzerland
+    capital: Bern
+    population: 8.5
+    languages: [German, French, Italian, Romansh]
+  - name: Canada
+    capital: Ottawa
