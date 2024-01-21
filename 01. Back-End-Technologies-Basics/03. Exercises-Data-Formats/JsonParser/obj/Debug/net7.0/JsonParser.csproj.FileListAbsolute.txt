@@ -1,0 +1,16 @@
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\bin\Debug\net7.0\JsonParser.exe
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\bin\Debug\net7.0\Datasets\Books.json
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\bin\Debug\net7.0\Datasets\Students.json
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\bin\Debug\net7.0\JsonParser.deps.json
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\bin\Debug\net7.0\JsonParser.runtimeconfig.json
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\bin\Debug\net7.0\JsonParser.dll
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\bin\Debug\net7.0\JsonParser.pdb
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\JsonParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\JsonParser.AssemblyInfoInputs.cache
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\JsonParser.AssemblyInfo.cs
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\JsonParser.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\JsonParser.dll
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\refint\JsonParser.dll
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\JsonParser.pdb
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\JsonParser.genruntimeconfig.cache
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\JsonParser\obj\Debug\net7.0\ref\JsonParser.dll

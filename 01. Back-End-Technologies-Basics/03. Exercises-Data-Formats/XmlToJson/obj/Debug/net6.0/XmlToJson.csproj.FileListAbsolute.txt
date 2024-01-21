@@ -1,0 +1,16 @@
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.exe
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\bin\Debug\net6.0\Datasets\Devices.xml
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\bin\Debug\net6.0\Datasets\Vehicles.xml
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.deps.json
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.runtimeconfig.json
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.dll
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\bin\Debug\net6.0\XmlToJson.pdb
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfoInputs.cache
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.AssemblyInfo.cs
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.csproj.CoreCompileInputs.cache
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.dll
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\refint\XmlToJson.dll
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.pdb
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\XmlToJson.genruntimeconfig.cache
+C:\The-Code-Folder\3. Backend-Test-Automation - JS (January 2024)\03. Exercises-Data-Formats\XmlToJson\obj\Debug\net6.0\ref\XmlToJson.dll

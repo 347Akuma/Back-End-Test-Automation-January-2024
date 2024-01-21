@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C89nBTx8FVpMeZV5nYC4aNyyf41aD2GFh9uwThMUAVfYjToqc8gS6xjtqpT6dcQoiWvDdIBtkzJ7CdyqqkpcJA==",
+  "success": true,
+  "projectFilePath": "C:\\The-Code-Folder\\3. Backend-Test-Automation - JS (January 2024)\\03. Exercises-Data-Formats\\YamlToHtml\\YamlToHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guita\\.nuget\\packages\\yamldotnet\\13.7.1\\yamldotnet.13.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
